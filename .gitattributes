@@ -1,0 +1,28 @@
+# Текстовые файлы
+*.py text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+*.gitignore text eol=lf
+*.gitattributes text eol=lf
+
+# Бинарные файлы - изображения
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.bmp binary
+
+# Бинарные файлы - аудио
+*.mp3 binary
+*.wav binary
+*.ogg binary
+*.flac binary
+
+# Бинарные файлы - другие
+*.zip binary
+*.exe binary
+*.dll binary
+*.so binary
+
